@@ -9,7 +9,8 @@
 
 ## Result
 - lap time: 1:26sec(lap1), 1:31sec(lap2)
-- 
+
+https://github.com/yujin-shim/LaneRecognition/assets/108443602/6e2929ba-6a60-4b9b-84f4-170365187736
 
 ## Algorithm
 - Vision: MovingAverage, Canny Edge, Hough Transform
